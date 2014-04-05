@@ -1,0 +1,11 @@
+2014-04-05 16:11:48 INFO  Hello:13 - this is the ===info=== level
+2014-04-05 16:11:48 ERROR Hello:14 - this is the ===error=== level
+2014-04-05 16:12:32 INFO  Hello:13 - this is the ===info=== level
+2014-04-05 16:12:32 ERROR Hello:14 - this is the ===error=== level
+2014-04-05 16:16:36 DEBUG Hello:12 - this is the ===debug=== level
+2014-04-05 16:16:36 INFO  Hello:13 - this is the ===info=== level
+2014-04-05 16:16:36 ERROR Hello:14 - this is the ===error=== level
+2014-04-05 16:16:46 TRACE Hello:11 - this is the ===trace=== level
+2014-04-05 16:16:46 DEBUG Hello:12 - this is the ===debug=== level
+2014-04-05 16:16:46 INFO  Hello:13 - this is the ===info=== level
+2014-04-05 16:16:46 ERROR Hello:14 - this is the ===error=== level
